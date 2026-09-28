@@ -1,2 +1,2 @@
 # vc-p1
-vube craft
+vibe craft - challenge phase 1
